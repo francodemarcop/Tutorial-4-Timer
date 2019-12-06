@@ -5,7 +5,7 @@
 Start by creating a new scene called *Tutorial 4*.
 We create a `Text Mesh Pro` named *Timer* and we would attached a *script* to it called *Timer*.
 
-## Code
+## Code:
 
 First of all we need to add a `using TMPro` so the code is able to recognise the `TextMeshPro`.
 We are going to create two `public` assets, the first one would be link to the *TextMeshPro* we created before on the scene.
